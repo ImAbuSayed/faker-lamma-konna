@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 30, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/faker-lamma-konna/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [License Abu Sayed's Faker Lamma Konna](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
